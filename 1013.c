@@ -43,8 +43,8 @@ int main () {
         scanf("%d", &input);
 
         /* 
-        Make sure the input is less 100 and bigger than 1,
-        before we run the check function on the integer
+        Make sure the input is not equal to zero or 
+        it will skew the less than or equal to 60 marks by 1.
         */
         if (input != 0){
             check(input);
