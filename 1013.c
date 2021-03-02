@@ -1,3 +1,15 @@
+/*
+*Student ID: 201458429
+*Student name: Ethan Halsall
+*Email: sgehalsa@liverpool.ac.uk
+*
+*User: sgehalsa
+*
+*Problem ID: 1013
+*RunID: 23661
+*Result: wrong answer
+*/
+
 #include <stdio.h>
 
 int count, count2, count3 = 0;
@@ -42,9 +54,7 @@ int main () {
     } while (input != 0) ;
 
     /* Print the count for each of the three ranges */
-    printf(">=85:%d",  count);
-    printf("\n60-84:%d",  count2);
-    printf("\n<60:%d",  count3);
+    printf(">=85:%d\n60-84:%d\n<60:%d",  count, count2, count3);
     
     return 0;
 }

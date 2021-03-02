@@ -1,6 +1,17 @@
+/*
+*Student ID: 201458429
+*Student name: Ethan Halsall
+*Email: sgehalsa@liverpool.ac.uk
+*
+*User: sgehalsa
+*
+*Problem ID: 1018
+*RunID: 23585
+*Result: accepted
+*/
+
 #include <stdio.h>
 #include <string.h>
-
 
 void reverse(char* str){
     const int len = strlen(str);

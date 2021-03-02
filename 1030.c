@@ -1,3 +1,14 @@
+/*
+*Student ID: 201458429
+*Student name: Ethan Halsall
+*Email: sgehalsa@liverpool.ac.uk
+*
+*User: sgehalsa
+*
+*Problem ID: 1030
+*RunID: 23574
+*Result: accepted
+*/
 #include <stdio.h>
 
 char nth_decimal(int a, int b, int n){ 

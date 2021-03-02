@@ -1,3 +1,16 @@
+/*
+*Student ID: 201458429
+*Student name: Ethan Halsall
+*Email: sgehalsa@liverpool.ac.uk
+*
+*User: sgehalsa
+*
+*Problem ID: 1022
+*RunID: 23637
+*Result: accepted
+*/
+
+
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
