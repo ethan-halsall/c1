@@ -6,8 +6,8 @@
 *User: sgehalsa
 *
 *Problem ID: 1013
-*RunID: 23661
-*Result: wrong answer
+*RunID: 23829
+*Result: accepted
 */
 
 #include <stdio.h>
@@ -46,8 +46,8 @@ int main () {
         Make sure the input is less 100 and bigger than 1,
         before we run the check function on the integer
         */
-        if (input > 1 && input < 100){
-                check(input);
+        if (input != 0){
+            check(input);
         }
 
     /* Exit loop when 0 is entered */
